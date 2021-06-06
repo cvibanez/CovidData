@@ -8,11 +8,22 @@ This project was for Applied Data Science course at Bellevue University.  The go
 * Tableau
 
 ### Data
-The dataset for this project is The Movies Dataset found on Kaggle- https://www.kaggle.com/rounakbanik/the-movies-dataset.  This dataset contains metadata for the Full MovieLens Dataset (https://grouplens.org/datasets/movielens/latest/), which contains over 45,000 movies and over 26 million ratings from more than 270,000 users.  The Movies Dataset contains seven csv files of data out of which two files are subset data files.
+The datasets for this project can be found on the Centers for Disease Control and Prevention (CDC) website and healthdata.gov.  The datasets appear complete and clean.
+*Cases & Deaths
+https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36
+*Covid-19 Testing Data
+https://healthdata.gov/dataset/COVID-19-Diagnostic-Laboratory-Testing-PCR-Testing/j8mb-icvb
+*Vaccinations
+https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc
+
 
 
 ### Conclusion
-Different techniques can be used for recommendation systems.  In order to test the effectiveness of recommendations, the system should be deployed and customer actions should be monitored to determine if they watch movies based on the recommendations.
+The Covid-19 pandemic has led to many infections and deaths across the country.
+Testing efforts ramped up quickly, but the percentage of positive test results stayed relatively consistent.
+Vaccines have greatly reduced the number of infections, and therefore deaths in the country.
+Although the vaccines that are available are very effective, we must remain vigilant and follow the guidelines of the CDC.
+
 
 
 ### Navigation
